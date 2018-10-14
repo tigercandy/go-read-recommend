@@ -20,3 +20,4 @@
 
 - [gRPC负载均衡-Golang](https://juejin.im/post/5a66046c51882535a47cfc8d)
 
+- [Golang基于Gitlab CI/CD部署方案](http://www.chairis.cn/blog/article/96)
