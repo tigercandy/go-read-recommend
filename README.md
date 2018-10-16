@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎PR、issus和start。
 
 ----
+- [前端遇上Go: 静态资源增量更新的新实践](https://tech.meituan.com/fe_and_golang.html)
+
 - [GO千万级消息推送服务](https://yuerblog.cc/2018/06/26/go-push-service)
 
 - [如何基于Golang设计一套微服务架构](https://lattecake.com/post/20115)
