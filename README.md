@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [Golang监控(Telegraf+InfluxDB+Grafana)](http://blog.sina.com.cn/s/blog_6b61ec070102xq61.html)
+
 - [使用Beego+Swagger构建更好的API服务](https://mp.weixin.qq.com/s/8798RDfDIyzkF_GYUPticg)
 
 - [今日头条Go建千亿级微服务的实践](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650996069&idx=1&sn=63e7f5d5f91f9d84f1c3278426f6edf6)
