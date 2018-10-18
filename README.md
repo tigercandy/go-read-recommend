@@ -4,6 +4,10 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [ofo 基于 K8S 容器云平台的实践](https://mp.weixin.qq.com/s/4OlnyQd8lqRJYL-7HEv1gw)
+
+- [Go在迅雷P2P连通系统中的性能优化实践－朱文](https://mp.weixin.qq.com/s/UiFHE6dcl9dPlhlj-78UcQ)
+
 - [Golang监控(Telegraf+InfluxDB+Grafana)](http://blog.sina.com.cn/s/blog_6b61ec070102xq61.html)
 
 - [使用Beego+Swagger构建更好的API服务](https://mp.weixin.qq.com/s/8798RDfDIyzkF_GYUPticg)
