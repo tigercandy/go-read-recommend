@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [docker+jenkins+golang持续集成实践](https://yeqown.github.io/2018/05/03/docker-jenkins-golang%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%AE%9E%E8%B7%B5/)
+
 - [用Golang处理每分钟百万级请求](https://zhuanlan.zhihu.com/p/29126221)
 
 - [Go 语言构建高并发分布式系统实践](https://mp.weixin.qq.com/s/YsrnkME0VBPUUc6Td8T99w)
