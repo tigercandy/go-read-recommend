@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [Drone 搭配 Kubernetes 部署 Go 語言項目](https://gocn.vip/article/825)
+
 - [从一个PHP工程师的角度来看Go](https://golangcaff.com/topics/21/from-a-php-engineers-point-of-view-go)
 
 - [docker+jenkins+golang持续集成实践](https://yeqown.github.io/2018/05/03/docker-jenkins-golang%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%AE%9E%E8%B7%B5/)
