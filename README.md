@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [微服务架构组件分析](https://mp.weixin.qq.com/s/ImxFxnJIpBJzYuKZV4X8rA)
+
 - [Drone 搭配 Kubernetes 部署 Go 語言項目](https://gocn.vip/article/825)
 
 - [从一个PHP工程师的角度来看Go](https://golangcaff.com/topics/21/from-a-php-engineers-point-of-view-go)
