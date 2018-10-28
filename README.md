@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [个推基于Docker和Kubernetes的微服务实践](https://mp.weixin.qq.com/s/RCi3eFlrdwqD_tuGLTTK6Q)
+
 - [Go语言分布式系统配置管理实践--go archaius](https://juejin.im/post/5bcd3627e51d457a35656f39)
 
 - [微服务架构组件分析](https://mp.weixin.qq.com/s/ImxFxnJIpBJzYuKZV4X8rA)
