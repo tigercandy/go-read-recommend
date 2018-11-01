@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [微服务分布式系统熔断实战-为何我们需要API级别熔断？](https://juejin.im/post/5bd4169c6fb9a05cf9087a5c)
+
 - [小米正式开源Istio管理面板Naftis](https://mp.weixin.qq.com/s/Y2YBs4ENFWQTf7hEmsdi6g)
 
 - [个推基于Docker和Kubernetes的微服务实践](https://mp.weixin.qq.com/s/RCi3eFlrdwqD_tuGLTTK6Q)
