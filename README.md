@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [快速搭建Go JSON-RPC Server](https://mp.weixin.qq.com/s/k0cQ_kIs4FhfAz_ncctRBg)
+
 - [go http 框架性能大幅下降原因分析](https://my.oschina.net/u/2950272/blog/2247104)
 
 - [微服务分布式系统熔断实战-为何我们需要API级别熔断？](https://juejin.im/post/5bd4169c6fb9a05cf9087a5c)
