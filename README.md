@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [在 GitKab CI 中使用 Docker 构建 Go 项目](https://www.zcfy.cc/article/building-go-projects-with-docker-on-gitlab-ci)
+
 - [Golang通道的无阻塞读写](https://www.jianshu.com/p/3b24e909905f)
 
 - [快速搭建Go JSON-RPC Server](https://mp.weixin.qq.com/s/k0cQ_kIs4FhfAz_ncctRBg)
