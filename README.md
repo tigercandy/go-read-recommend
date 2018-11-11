@@ -4,7 +4,10 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [go 开发属于自己的日志库-文件日志库原型实现](https://juejin.im/post/5be529106fb9a04a0279d97e)
+
 - [五个加速 Go 的特性](https://mp.weixin.qq.com/s/sKMlczFAKVdybUHZwSNkpw)
+
 - [go-chassis 为 grpc-go 带来高级云原生特性](https://juejin.im/post/5be24186e51d4562f17af9f6)
 
 - [在 GitKab CI 中使用 Docker 构建 Go 项目](https://www.zcfy.cc/article/building-go-projects-with-docker-on-gitlab-ci)
