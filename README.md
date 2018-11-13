@@ -4,7 +4,7 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
-- [go-chassis 为 grpc-go 带来高级云原生特性](https://mp.weixin.qq.com/s?__biz=MzUxNTEwNTg5Mg==&mid=2247485026&idx=2&sn=ab34c18577e910a9488241217b46174d&chksm=f9baf369cecd7a7f75a37dde4b459b22f4802ca5dd1a4442efe67293a028edad0d484641f4c0&token=1696797126&lang=zh_CN#rd)
+- [gRPC & Protocol Buffer 构建高性能接口实践](https://www.jianshu.com/p/3139e8dd4dd1)
 
 - [go 开发属于自己的日志库-文件日志库原型实现](https://juejin.im/post/5be529106fb9a04a0279d97e)
 
