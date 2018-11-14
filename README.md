@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [七分钟读懂 Go 的临时对象池pool及其应用场景](https://zhuanlan.zhihu.com/p/49476634)
+
 - [gRPC & Protocol Buffer 构建高性能接口实践](https://www.jianshu.com/p/3139e8dd4dd1)
 
 - [go 开发属于自己的日志库-文件日志库原型实现](https://juejin.im/post/5be529106fb9a04a0279d97e)
