@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [GO在新零售营销领域的实践](https://mp.weixin.qq.com/s/6oc0TpXACvEHSIc9M7DX0A)
+
 - [如何在 Docker 中设置 Go 并部署应用](https://www.zcfy.cc/article/how-setup-go-in-docker-and-deploy-an-application)
 
 - [Golang 在十二赞的深度应用](https://wiki.12zan.cn/14-golang-usage-in-12zan-weixin-xiaochengxu)
