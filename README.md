@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [Golang之美](https://juejin.im/post/5bf50600e51d457dd85460d8)
+
 - [美团容器平台架构及容器技术实践](https://mp.weixin.qq.com/s/FGMkNexqKvFXmOTjqJZkfA)
 
 - [GO在新零售营销领域的实践](https://mp.weixin.qq.com/s/6oc0TpXACvEHSIc9M7DX0A)
