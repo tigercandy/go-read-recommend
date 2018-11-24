@@ -4,6 +4,8 @@
 ​	俗话说书是人类进步的阶梯，本项目收录了平时阅读到的一些Go相关写的比较好、质量较高的干货文章；欢迎star。
 
 ----
+- [Go后台对图片base64解码，并保存至文件服务器](https://juejin.im/post/5bf3c45bf265da61620d02ac)
+
 - [Golang之美](https://juejin.im/post/5bf50600e51d457dd85460d8)
 
 - [美团容器平台架构及容器技术实践](https://mp.weixin.qq.com/s/FGMkNexqKvFXmOTjqJZkfA)
