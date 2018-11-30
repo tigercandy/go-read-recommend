@@ -7,8 +7,6 @@
 
 <center><a href="./pages/page-001.md">下一页</a></center>
 
-- [从一个PHP工程师的角度来看Go](https://golangcaff.com/topics/21/from-a-php-engineers-point-of-view-go)
-
 - [docker+jenkins+golang持续集成实践](https://yeqown.github.io/2018/05/03/docker-jenkins-golang%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%AE%9E%E8%B7%B5/)
 
 - [用Golang处理每分钟百万级请求](https://zhuanlan.zhihu.com/p/29126221)
@@ -46,3 +44,5 @@
 - [gRPC负载均衡-Golang](https://juejin.im/post/5a66046c51882535a47cfc8d)
 
 - [Golang基于Gitlab CI/CD部署方案](http://www.chairis.cn/blog/article/96)
+
+- [探索Go内存管理(分配)](https://www.jianshu.com/p/47691d870756)
