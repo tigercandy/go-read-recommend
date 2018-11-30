@@ -39,13 +39,3 @@
 - [【2018-10-23】Drone 搭配 Kubernetes 部署 Go 語言項目](https://gocn.vip/article/825)
 
 - [【2018-10-22】从一个PHP工程师的角度来看Go](https://golangcaff.com/topics/21/from-a-php-engineers-point-of-view-go)
-
-<script>
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
-</script>

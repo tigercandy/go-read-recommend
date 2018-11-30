@@ -5,13 +5,3 @@
 - [【2018-11-24】Go后台对图片base64解码，并保存至文件服务器](https://juejin.im/post/5bf3c45bf265da61620d02ac)
 
 - [【2018-11-24】Golang之美](https://juejin.im/post/5bf50600e51d457dd85460d8)
-
-<script>
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
-</script>

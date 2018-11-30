@@ -46,13 +46,3 @@
 - [Golang基于Gitlab CI/CD部署方案](http://www.chairis.cn/blog/article/96)
 
 - [探索Go内存管理(分配)](https://www.jianshu.com/p/47691d870756)
-
-<script>
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
-</script>
