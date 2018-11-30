@@ -1,4 +1,4 @@
-<center><a href="../README.md">上一页</a></center>
+<p align="center"><a href="../README.md">上一页</a></p>
 
 - [Go后台对图片base64解码，并保存至文件服务器](https://juejin.im/post/5bf3c45bf265da61620d02ac)
 
