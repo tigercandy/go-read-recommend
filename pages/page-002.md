@@ -1,6 +1,6 @@
 <p align="center"><a href="./page-001.md">上一页</a></p>
 
-- [【2018-12-05】golang 后台服务设计精要（http://litang.me/post/golang-server-design/）]
+- [【2018-12-05】golang 后台服务设计精要]（http://litang.me/post/golang-server-design/）
 
 - [【2018-11-30】知乎社区核心业务 Golang 化实践](https://zhuanlan.zhihu.com/p/48039838)
 
