@@ -1,6 +1,6 @@
 <p align="center"><a href="./page-001.md">上一页</a></p>
 
-- [【Kubernetes 1.13发布：利用Kubeadm简化集群管理，CSI以及作为默认DNS的CoreDNS全面实现普遍可用】](https://mp.weixin.qq.com/s/m0S2rNla-csKLZgNauC_vQ)
+- [【2018-12-07】Kubernetes 1.13发布：利用Kubeadm简化集群管理，CSI以及作为默认DNS的CoreDNS全面实现普遍可用](https://mp.weixin.qq.com/s/m0S2rNla-csKLZgNauC_vQ)
 
 - [【2018-12-06】Golang并发模型：并发协程的优雅退出](https://segmentfault.com/a/1190000017251049)
 
