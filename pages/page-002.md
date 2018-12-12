@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-001.md">上一页</a></p>
 
+- [【2018-12-12】张新宇-《 Go分布式实时服务架构 》](https://mp.weixin.qq.com/s/EbXmt1I5fYSIugD7x56_WA)
+
 - [【2018-12-09】微服务设计指南](https://mp.weixin.qq.com/s/nYDSZJ-N7ECitDF3AFGgRw)
 
 - [【2018-12-08】Go如何为Web开发人员解决这么多问题](https://ewanvalentine.io/why-go-solves-so-many-problems-for-web-developers/)
