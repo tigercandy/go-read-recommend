@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-001.md">上一页</a></p>
 
+- [【2018-12-18】解读 2018 之 Go 语言篇：为什么 Go 语言越来越热？](https://infoq.cn/article/4LsxhHGpAG1Gq-q4KVO4)
+
 - [【2018-12-18】万亿级数据洪峰下的分布式消息引擎](https://mp.weixin.qq.com/s/FuUICaNihx1PPKfxRTN1Fg)
 
 - [【2018-12-14】Building a Web App With Go, Gin and React](https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/)
