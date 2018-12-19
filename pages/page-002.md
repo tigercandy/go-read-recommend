@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-001.md">上一页</a></p>
 
+- [【2018-12-19】Go interface实现分析](https://mp.weixin.qq.com/s/px9BRQrTCLX6BbvXJbysCA)
+
 - [【2018-12-18】解读 2018 之 Go 语言篇：为什么 Go 语言越来越热？](https://infoq.cn/article/4LsxhHGpAG1Gq-q4KVO4)
 
 - [【2018-12-18】万亿级数据洪峰下的分布式消息引擎](https://mp.weixin.qq.com/s/FuUICaNihx1PPKfxRTN1Fg)
