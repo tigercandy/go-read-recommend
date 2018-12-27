@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-001.md">上一页</a></p>
 
+- [【2018-12-27】在Go中对API进行版本控制](https://dev.to/geosoft1/versioning-your-api-in-go-1g4h)
+
 - [【2018-12-26】知乎推荐系统的实践及重构之路](https://zhuanlan.zhihu.com/p/53130925)
 
 - [【2018-12-23】Go 指针和内存分配详解](https://segmentfault.com/a/1190000017473672)
