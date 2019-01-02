@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+- [【2019-01-02】Kubernetes的未来在于虚拟机而非容器](https://mp.weixin.qq.com/s/304qQoZfUiyZBTvyCVFYow)
+
 - [【2019-01-02】TiDB-Tools golang 开发实践](https://mp.weixin.qq.com/s/idHQbI9_3-euHFEzKvlJlg)
 
 - [【2018-12-28】10分钟看懂Docker和K8S](https://mp.weixin.qq.com/s/gCKHzKRL-19U8Vu7EHlIMg)
