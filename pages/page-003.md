@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+- [【2019-01-04】再谈 Go 语言在前端的应用前景](https://mp.weixin.qq.com/s/v0-d-qPQFlV0CxttFpzC5w)
+
 - [【2019-01-03】如何设计一个 RPC 系统](https://gocn.vip/article/1107)
 
 - [【2019-01-02】Kubernetes的未来在于虚拟机而非容器](https://mp.weixin.qq.com/s/304qQoZfUiyZBTvyCVFYow)
