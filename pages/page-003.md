@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+- [【2019-01-16】Go存储怎么写？深度解析etcd存储设计](https://mp.weixin.qq.com/s/qvqpUtTFI0cFf9LtTH4JfA)
+
 - [【2019-01-09】Go语言经典库使用分析（七）| 高性能可扩展HTTP路由httprouter](https://mp.weixin.qq.com/s/Q2-60p_KU0AgbvtPu7CMRw)
 
 - [【2019-01-08】Go语言(golang)的错误(error)处理的推荐方案](https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html)
