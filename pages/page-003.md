@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+- [【2019-01-17】微服务架构下静态数据通用缓存机制](https://mp.weixin.qq.com/s/UUjdcBidNh5lwwSs372CCw)
+
 - [【2019-01-16】Go存储怎么写？深度解析etcd存储设计](https://mp.weixin.qq.com/s/qvqpUtTFI0cFf9LtTH4JfA)
 
 - [【2019-01-09】Go语言经典库使用分析（七）| 高性能可扩展HTTP路由httprouter](https://mp.weixin.qq.com/s/Q2-60p_KU0AgbvtPu7CMRw)
