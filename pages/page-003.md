@@ -1,5 +1,9 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+= [【2019-01-23】Go 基于 Redis 通用频率控制的实现](https://mp.weixin.qq.com/s/OKRZKM3McOhCWMJTaB1hFg)
+
+- [【2019-01-23】Golang在大数据领域中的应用之唯品会高吞吐量Access Log存储的实现](https://mp.weixin.qq.com/s/C6BTyGQgbLng6s2Q1g43CA)
+
 - [【2019-01-17】微服务架构下静态数据通用缓存机制](https://mp.weixin.qq.com/s/UUjdcBidNh5lwwSs372CCw)
 
 - [【2019-01-16】Go存储怎么写？深度解析etcd存储设计](https://mp.weixin.qq.com/s/qvqpUtTFI0cFf9LtTH4JfA)
