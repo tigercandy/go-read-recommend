@@ -1,6 +1,6 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
-= [【2019-01-23】Go 基于 Redis 通用频率控制的实现](https://mp.weixin.qq.com/s/OKRZKM3McOhCWMJTaB1hFg)
+- [【2019-01-23】Go 基于 Redis 通用频率控制的实现](https://mp.weixin.qq.com/s/OKRZKM3McOhCWMJTaB1hFg)
 
 - [【2019-01-23】Golang在大数据领域中的应用之唯品会高吞吐量Access Log存储的实现](https://mp.weixin.qq.com/s/C6BTyGQgbLng6s2Q1g43CA)
 
