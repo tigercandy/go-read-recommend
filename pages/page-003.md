@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+- [【2018-01-25】在Go中我们应该使用REST还是gRPC构建API](https://blog.maddevs.io/go-rest-or-grpc-5eace88499bd)
+
 - [【2019-01-24】使用Go语言开发必备的5大开源工具](http://developer.51cto.com/art/201901/590952.htm)
 
 - [【2019-01-23】Go 基于 Redis 通用频率控制的实现](https://mp.weixin.qq.com/s/OKRZKM3McOhCWMJTaB1hFg)
