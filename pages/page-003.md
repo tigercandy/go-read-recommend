@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-002.md">上一页</a></p>
 
+- [【2019-01-31】Go在KLOOK的应用实践](https://mp.weixin.qq.com/s/hCzswwR7U2F8HTL4n6M0wA)
+
 - [【2019-01-27】才云正式开源其Golang API框架Nirvana](https://mp.weixin.qq.com/s/NWGsPhVXuOW2t8cukP3TJQ)
 
 - [【2018-01-25】在Go中我们应该使用REST还是gRPC构建API](https://blog.maddevs.io/go-rest-or-grpc-5eace88499bd)
