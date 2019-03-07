@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-003.md">上一页</a></p>
 
+- [【2019-03-07】go-kit微服务：服务熔断](https://juejin.im/post/5c7e564651882546c846c101)
+
 - [【2019-03-06】知乎基于Kubernetes的kafka平台的设计和实现](https://mp.weixin.qq.com/s/J6Rf0x2WQcGVWysf0R4-YA)
 
 - [【2019-03-03】百万 Go TCP 连接的思考3: 正常连接下的吞吐率和延迟](https://colobu.com/2019/02/28/1m-go-tcp-connection-3/)
