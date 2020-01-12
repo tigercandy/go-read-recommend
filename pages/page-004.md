@@ -1,5 +1,8 @@
 <p align="center"><a href="./page-003.md">上一页</a></p>
 
+- [【2020-01-12 】探探长链接项目的Go语言实践](https://mp.weixin.qq.com/s/XW1QHbKVGHAfX-iY8rnB5A)
+
+
 - [【2020-01-11】Golang 在电商即时通讯服务建设中的实践](https://juejin.im/post/5df6f6476fb9a0164d460503)
 
 - [【2019-06-04】Dubbo For Go](https://mp.weixin.qq.com/s/mJa-gxteH_nQQwI4CmJomg)
