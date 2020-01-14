@@ -1,5 +1,7 @@
 <p align="center"><a href="./page-003.md">上一页</a></p>
 
+- [【2020-01-14】Go同步和并发设计模式](https://mp.weixin.qq.com/s/6z5onCKzweCR_FG-9W6t3w)
+
 - [【2020-01-13】探探如何三个月完成微服务改造，以及踩过的“坑”](https://mp.weixin.qq.com/s/y43L9RMa94sca2P5FKrpCA)
 
 - [【2020-01-12 】探探长链接项目的Go语言实践](https://mp.weixin.qq.com/s/XW1QHbKVGHAfX-iY8rnB5A)
