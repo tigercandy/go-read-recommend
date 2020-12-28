@@ -7,6 +7,8 @@
 
 <p align="center"><a href="./pages/page-001.md">下一页</a></p>
 
+- [基于gRPC的注册发现与负载均衡的原理和实战](https://learnku.com/articles/52189)
+
 - [docker+jenkins+golang持续集成实践](https://yeqown.github.io/2018/05/03/docker-jenkins-golang%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%E5%AE%9E%E8%B7%B5/)
 
 - [用Golang处理每分钟百万级请求](https://zhuanlan.zhihu.com/p/29126221)
